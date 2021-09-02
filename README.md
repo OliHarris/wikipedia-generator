@@ -1,2 +1,2 @@
 # wikipedia-generator
-Visually very basic but works fine functionally, taps the Wikipedia API
+Taps the Wikipedia API for a random article - visually very basic but works fine functionally
